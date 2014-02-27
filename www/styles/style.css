@@ -1,0 +1,17 @@
+.buttons{
+	background: inherit;
+	color:white;
+	}
+.button-cl{
+	background:inherit;
+	color:white;
+}
+li{
+	padding-top: 50px;
+	font-size: 20px;
+	list-style-type: none;}
+.con-bg{
+	background-color:#9999ff ;
+	color: #222255;
+	
+}
